@@ -16,7 +16,7 @@ Please, install the following packages:
 
 # Data
 
-The input data can be downloaded from [here](http://ww2.ii.uj.edu.pl/~struski/results/Pharmacoprint/data.zip) because their size is too big to share them on Github.
+
 
 # Run
 
